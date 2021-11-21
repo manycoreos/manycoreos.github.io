@@ -4,8 +4,17 @@ sort: 4
 
 # 결과물
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
+## 논문
 
-{% include list.liquid all=true %}
+- 논문 1
+- 논문 2
+
+## 특허
+
+- 특허 1
+- 특허 2
+
+## 소프트웨어
+
+- 소프트웨어 1
+- 소프트웨어 2
