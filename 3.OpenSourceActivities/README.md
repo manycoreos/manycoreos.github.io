@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Open Source Activities
+# 오픈소스 소프트웨어 활동
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

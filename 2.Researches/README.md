@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Researches
+# 연구 내용 및 결과
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-# Results
+# 결과물
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
