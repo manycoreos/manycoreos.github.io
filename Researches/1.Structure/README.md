@@ -88,5 +88,5 @@ sort: 1
 
 ### 공개 소프트웨어
 
-* [osSim)](https://github.com/yb-kim/osSim)
+* [osSim](https://github.com/yb-kim/osSim)
 * [AIM7 Modified](https://github.com/BellScurry/aim7-modified)
